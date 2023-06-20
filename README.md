@@ -23,7 +23,9 @@
 
 - Tool : Android studio , Jupyter notebook
 
-- Language : Kotlin 
+- Language : Kotlin
+
+- CNN을 통한 바이너리 파일을 분석하는 코드를 구현했습니다
 
 ## 영상
 - [video link](https://www.youtube.com/watch?v=kkHYvlJQXDo)
